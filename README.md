@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ravi Teja
+# Hi 👋, I'm Ravi
 
 🎯 A passionate **Backend Development & DSA Learner**  
 💻 Building strong fundamentals in **problem solving and backend systems**  
